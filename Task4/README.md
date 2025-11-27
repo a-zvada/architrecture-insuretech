@@ -81,4 +81,4 @@ core-app отдаёт наружу обычный REST API.
 
 ### Схема контейнеров
 
-[osago-aggregator\_to\_be.drawio.png](osago-aggregator_to_be.drawio.png)
+![osago-aggregator\_to\_be.drawio.png](osago-aggregator_to_be.drawio.png)
